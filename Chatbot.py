@@ -1,5 +1,3 @@
-#Chatbot
-
 print("=" * 50)
 print("     WELCOME TO COLLEGE MANAGEMENT CHATBOT     ")
 print("=" * 50)
